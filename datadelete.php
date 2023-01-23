@@ -19,12 +19,6 @@ if (isset($_GET['delete'])) {
         header("location:datadelete.php?deletionstatus=no");
     }
 }
-
-
-
-
-
-
 ?>
 
 <!-- We are creating a simple bootstrap table. -->
